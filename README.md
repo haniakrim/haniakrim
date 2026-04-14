@@ -1,114 +1,82 @@
-<!-- Header Banner (Animated) -->
+<!-- Capsule Render Animated Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hani%20Akrim&fontSize=80&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Systems%20Architect&descAlignY=55&descAlign=50" alt="Hani Akrim Header" width="100%" />
 </div>
 
-<!-- Logo and Title -->
 <div align="center">
-  <br />
-  <img src="https://haniakrim.dev/haclaw-logo.png" width="120" alt="HAClaw Logo" />
-  
-  <br />
-  
-  <!-- Typing Animation SVG -->
-  <a href="https://haniakrim.dev">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Dr.+Hani+Akrim;AI%2FML+Engineer+%26+Systems+Architect;HealthTech+Innovator;Workflow+Automation+Expert&font=Inter&center=true&width=600&height=60&color=3B82F6&vCenter=true&pause=1000&size=30" alt="Typing Greeting" />
-  </a>
-</div>
-
-<p align="center">
   <a href="https://haniakrim.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-haniakrim.dev-212121?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Website-haniakrim.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="Portfolio Website" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Riyadh,%20Saudi%20Arabia-212121?style=for-the-badge&logo=googlemaps&logoColor=3B82F6" alt="Location" />
-  <img src="https://img.shields.io/badge/Education-New%20York%20University-212121?style=for-the-badge&logo=fae&logoColor=3B82F6" alt="NYU" />
-</p>
-
----
-
-<br />
-
-<div align="center">
-
-> *"Democratizing AI through intelligent, scalable systems — Faster. Simpler. Smarter."*
-
+  <img src="https://img.shields.io/badge/Location-Riyadh,%20Saudi%20Arabia-000000?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-New%20York%20University-000000?style=for-the-badge&logo=fae&logoColor=00E5FF" alt="NYU" />
 </div>
 
-## 🧬 01. About & Professional Impact
+<br />
 
-Over 20+ years, I've led digital transformation for healthcare organizations across MENA, including the development of a flagship mobile wellness super-app serving **500K+ users**. I specialize in bridging cutting-edge AI technology with real-world healthcare delivery.
-
-Throughout my career, I've pioneered digital transformation—from implementing hospital information systems managing 400+ bed facilities to architecting national healthcare command centers. My work bridges the gap between frontier technology and real-world healthcare delivery, prioritizing measurable outcomes for patients, providers, and organizations.
-
-**Measurable Achievements:**
-- 📱 Led flagship mobile wellness super-app integrating AI-powered features across fitness, nutrition, mental health, and chronic disease management.
-- 🚀 Drove **$5M+** digital health initiatives from concept to launch, achieving **95%** stakeholder satisfaction.
-- 📊 Directed comprehensive benchmarking of 25+ global wellness platforms, evolving into a differentiated feature roadmap that increased competitive positioning by 40%.
-- 🧩 Orchestrated multi-vendor integration strategies across 8 technology partners with on-time, on-budget implementation.
-- ⏱️ Established engineering documentation standards reducing development cycle time by 30%.
-- 👥 Built and led cross-functional product teams of 15+ members across UX, engineering, and business stakeholders.
+<!-- Animated Tagline -->
+<div align="center">
+  <a href="https://haniakrim.dev">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Democratizing+AI+through+intelligent,+scalable+systems...;Faster.+;Simpler.+;Smarter.&font=Fira+Code&center=true&width=650&height=50&color=00E5FF&vCenter=true&pause=1000&size=20" alt="Animated Tagline" />
+  </a>
+</div>
 
 <br />
 
 ---
 
-<br />
+## 🧬 01. Professional Impact & Vision
 
-## 🎯 02. Current Focus
+Over **20+ years**, I've led transformative digital technology integrations across MENA healthcare sectors, culminating in flagship super-apps servicing over **500K+ users**. 
 
-- **`01/` Healthcare & Wellness AI**: Compliance-aware models for patient care and workflow efficiency.
-- **`02/` Multi-Agent Orchestration**: Swarms of specialized agents built to conquer complex reasoning tasks.
-- **`03/` Next-Gen RAG Architectures**: Hybrid search systems combined with dynamic semantic knowledge bases.
-- **`04/` Conversational AI Systems**: Fluid, stateful, and context-aware smart chatbot experiences.
-- **`05/` Workflow Automation**: Scaling operations rapidly through intelligent API pipelines.
+My core philosophy: Bridge the gap between cutting-edge frontier AI and mission-critical healthcare delivery.
 
-<br />
-
----
-
-<br />
-
-## 🧠 03. Core Capabilities
-
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
-    <td width="50%" valign="top">
-      <h3>💬 Conversational AI</h3>
-      <ul>
-        <li>Contextual memory chatbots</li>
-        <li>Tool-augmented agents</li>
-        <li>Multi-turn management</li>
-        <li>Intent & entity extraction</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 RAG Systems</h3>
-      <ul>
-        <li>Hybrid search implementation</li>
-        <li>Advanced relevance scoring</li>
-        <li>Grounded LLM responses</li>
-        <li>Dynamic document ingestion</li>
-      </ul>
-    </td>
+    <td width="5%" align="center">📱</td>
+    <td width="95%">Led flagship mobile wellness super-app integrating AI-powered features across fitness, nutrition, mental health, and chronic disease management.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Multi-Agent Systems</h3>
-      <ul>
-        <li>Role-based collaboration</li>
-        <li>Inter-agent communication</li>
-        <li>Emergent problem solving</li>
-        <li>Horizontal deployment</li>
-      </ul>
+    <td width="5%" align="center">🚀</td>
+    <td width="95%">Drove <b>$5M+</b> digital health initiatives from concept to launch, achieving <b>95%</b> stakeholder satisfaction.</td>
+  </tr>
+  <tr>
+    <td width="5%" align="center">🧩</td>
+    <td width="95%">Orchestrated multi-vendor integration strategies across 8 technology partners with on-time implementation.</td>
+  </tr>
+  <tr>
+    <td width="5%" align="center">👥</td>
+    <td width="95%">Built and led cross-functional product delivery teams of 15+ members across UX, engineering, and diverse business stakeholders.</td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Aesthetic Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%" alt="Hacker Divider" style="border-radius: 15px;" />
+</div>
+
+<br />
+
+---
+
+## ⚡ 02. Active Focus & Next-Gen Systems
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=01.+Healthcare+%26+Wellness+AI;02.+Multi-Agent+Orchestration;03.+Next-Gen+RAG+Architectures;04.+Conversational+AI+Systems;05.+Dynamic+Workflow+Automation&font=Inter&center=true&width=500&height=40&color=9333EA&vCenter=true&pause=2000&size=24" alt="Active Focus Typing" />
+</div>
+
+<br />
+
+<table align="center" width="100%" cellspacing="0" cellpadding="10">
+  <tr valign="top">
+    <td width="50%">
+      <b>🤖 Conversational AI & Agents</b><br/>
+      Contextual memory chatbots • Tool-augmented agents • Multi-turn management • Emergent problem solving
     </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Visual Workflows</h3>
-      <ul>
-        <li>LangGraph & LangChain</li>
-        <li>N8N / Make.com / Zapier</li>
-        <li>Real-time observability</li>
-        <li>Node-based orchestration</li>
-      </ul>
+    <td width="50%">
+      <b>🔍 RAG Architectures</b><br/>
+      Hybrid search implementations • Advanced relevance scoring • Grounded LLM responses • Dynamic ingestions
     </td>
   </tr>
 </table>
@@ -117,74 +85,62 @@ Throughout my career, I've pioneered digital transformation—from implementing 
 
 ---
 
-<br />
-
-## 🛠️ 04. Toolkit
+## ⚙️ 03. The Toolkit
 
 <div align="center">
-
-<!-- Modern Skill Icons Grid -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,react,nextjs,fastapi,tensorflow,pytorch,docker,git,linux,aws,gcp&perline=7&theme=dark" alt="My Tech Stack" />
-</a>
-
-<br /><br />
-
-**`Programming`** Python, TypeScript, JavaScript, Node.js<br />
-**`AI/ML`** LangChain, LangGraph, OpenAI/Anthropic, HuggingFace<br />
-**`DevOps & Tools`** Docker, Git/GitHub, VS Code, Claude Code<br />
-**`Automation`** N8N, Make.com, Zapier, REST APIs  
-
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,react,nextjs,fastapi,tensorflow,pytorch,docker,git,linux,aws,gcp&perline=7&theme=dark" alt="Hani's Tech Stack" />
+  </a>
+  <br /><br />
+  <code>Python</code> <code>TypeScript</code> <code>LangChain</code> <code>LangGraph</code> <code>HuggingFace</code><br/>
+  <code>Make.com</code> <code>Zapier</code> <code>N8N</code> <code>Docker</code> <code>Next.js</code> <code>FastAPI</code>
 </div>
 
 <br />
 
 ---
 
-<br />
+## 🌌 04. Selected Works
 
-## 🏗️ 05. Selected Works & Currently Building
-
-<blockquote>
-  <b>🛡️ HAClaw CC</b><br />
-  A secure persistent personal agent server built in Rust. One binary — sandboxed, secure, yours.<br />
-  <i>Rust • AI • Agent Server • Security</i>
-</blockquote>
-
-<blockquote>
-  <b>🕸️ Multi-Agent AI Platform</b><br />
-  Architecting a horizontal multi-agent system where independent specialist agents collaborate to solve complex business queries autonomously.<br />
-  <i>LangGraph • OpenAI • Python</i>
-</blockquote>
-
-<blockquote>
-  <b>🩺 Healthcare AI Apps</b><br />
-  Developing HIPAA-compliant AI applications for patient triage and medical document summarization using fine-tuned open-source models.<br />
-  <i>Llama 3 • FastAPI • Vector DB</i>
-</blockquote>
-
-<blockquote>
-  <b>🗺️ Explainable Reasoning Graphs</b><br />
-  Building visual node-based frameworks to display the exact logical reasoning steps taken by an LLM to arrive at its final output.<br />
-  <i>React Flow • Agentic Frameworks • TypeScript</i>
-</blockquote>
-
-<blockquote>
-  <b>📚 Enterprise Knowledge Bases & RAG</b><br />
-  Consolidating siloed corporate documents into a single, unified semantic search interface powered by multimodal embeddings, hybrid search, self-querying retrievers, and semantic chunking to minimize enterprise hallucinations.<br />
-  <i>Elasticsearch • Pinecone • Next.js • Claude 3</i>
-</blockquote>
+<table width="100%" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+      <blockquote>
+        <b>🛡️ HAClaw CC</b><br />
+        A secure persistent personal agent server built in Rust. One binary — sandboxed, secure, yours.<br />
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <blockquote>
+        <b>🕸️ Multi-Agent API</b><br />
+        Architecting horizontal multi-agent systems where independent experts solve queries autonomously.<br />
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <blockquote>
+        <b>🩺 Health AI Triage</b><br />
+        Developing HIPAA-compliant AI applications for patient and medical document summarization.<br />
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <blockquote>
+        <b>📚 Unified Enterprise RAG</b><br />
+        Consolidating siloed corporate docs into a single unified search interface using multimodal embeddings.<br />
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 ---
 
-<br />
-
-## 📈 GitHub Analytics
+## 🔋 05. Developer Activity
 
 <div align="center">
-  <a href="https://github.com/haniakrim">
+  <a href="https://github.com/haniakrim" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=haniakrim&theme=react&hide_border=true&background=0D1117" alt="Hani's GitHub Streak" />
   </a>
 </div>
@@ -192,5 +148,5 @@ Throughout my career, I've pioneered digital transformation—from implementing 
 <br />
 
 <div align="center">
-  <i>"Making AI accessible, intelligent, and impactful — one system at a time."</i>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Let's+build+the+future+together.&font=Inter&center=true&width=400&height=50&color=FFFFFF&vCenter=true&pause=5000&size=20" alt="Outro" />
 </div>
