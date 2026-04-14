@@ -1,44 +1,113 @@
+<!-- Header Banner (Animated) -->
 <div align="center">
-  <img src="https://haniakrim.dev/haclaw-logo.png" width="100" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Header banner" />
 </div>
 
-<h1 align="center">Hi, I'm Dr. Hani Akrim 👋</h1>
-<h3 align="center">AI/ML Engineer</h3>
+<!-- Logo and Title -->
+<div align="center">
+  <br />
+  <img src="https://haniakrim.dev/haclaw-logo.png" width="120" alt="HAClaw Logo" />
+  
+  <br />
+  
+  <!-- Typing Animation SVG -->
+  <a href="https://haniakrim.dev">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Dr.+Hani+Akrim;AI%2FML+Engineer;Healthcare+Tech+Innovator;Workflow+Automation+Expert&font=Inter&center=true&width=600&height=60&color=3B82F6&vCenter=true&pause=1000&size=30" alt="Typing Greeting" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://haniakrim.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-haniakrim.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Website-haniakrim.dev-212121?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfolio Website" />
   </a>
-  <a href="https://github.com/haniakrim" target="_blank">
-    <img src="https://img.shields.io/github/followers/haniakrim?style=for-the-badge&logo=github&color=green" alt="GitHub Followers" />
+  <a href="https://github.com/haniakrim">
+    <img src="https://img.shields.io/github/followers/haniakrim?style=for-the-badge&logo=github&color=212121&labelColor=3B82F6" alt="GitHub Followers" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+<br />
 
-*Democratizing AI through intelligent, scalable systems.*
+<div align="center">
 
-- 🚀 Currently exploring **Healthcare AI, RAG (Retrieval-Augmented Generation), and Workflow Automation**.
-- 💡 Passionate about building intelligent systems that solve real-world problems.
-- 🌐 Visit my personal website to see more of my work: [haniakrim.dev](https://haniakrim.dev)
+## 🌌 About Me
 
-### 🛠️ Technologies & Tools
+> *Democratizing AI through intelligent, scalable systems.*
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
+</div>
 
-### 📈 GitHub Stats
+I am an **AI/ML Engineer** focused on building cutting-edge technical solutions that reshape healthcare technology, workflow automation, and data retrieval (RAG). My work revolves around making complex AI models accessible, reliable, and fundamentally scalable across diverse platforms.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haniakrim&show_icons=true&theme=radium" alt="Hani's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haniakrim&theme=radium" alt="Hani's GitHub Streak" />
-</p>
+- 🚀 **Always building:** Currently focused on state-of-the-art **RAG** architectures and intelligent automation.
+- 🩺 **Domain passion:** Healthcare tech and predictive analytics.
+- ✨ **Key interest:** Bridging the gap between frontier AI models and robust production systems.
+- 🌐 **Online home:** Discover my deeper thoughts and projects at [haniakrim.dev](https://haniakrim.dev).
+
+<br />
+
+---
+
+<br />
+
+## 🛠️ Technologies & Arsenal
+
+<div align="center">
+  
+*A curated list of my daily drivers and top-tier tools.*
+
+<br />
+
+<!-- Modern Skill Icons Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,tensorflow,pytorch,postgres,mongodb,docker,git,linux,aws,gcp&perline=7&theme=dark" alt="My Tech Stack" />
+</a>
+
+</div>
+
+<br />
+
+---
+
+<br />
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=haniakrim&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="Hani's GitHub Trophies" />
+  </a>
+</div>
+
+<br />
+
+---
+
+<br />
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=haniakrim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Hani's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniakrim&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=haniakrim&theme=react&hide_border=true&background=0D1117" alt="Hani's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <i>Let's build the future together.</i>
+</div>
