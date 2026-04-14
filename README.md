@@ -181,39 +181,12 @@ Throughout my career, I've pioneered digital transformation—from implementing 
 
 <br />
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haniakrim&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="Hani's GitHub Trophies" />
-  </a>
-</div>
-
-<br />
-
----
-
-<br />
-
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=haniakrim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Hani's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniakrim&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=haniakrim&theme=react&hide_border=true&background=0D1117" alt="Hani's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/haniakrim">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haniakrim&theme=react&hide_border=true&background=0D1117" alt="Hani's GitHub Streak" />
+  </a>
 </div>
 
 <br />
