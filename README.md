@@ -1,152 +1,88 @@
-<!-- Capsule Render Animated Header -->
+<!-- ===== HERO BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hani%20Akrim&fontSize=80&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Systems%20Architect&descAlignY=55&descAlign=50" alt="Hani Akrim Header" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:15101a,50:3a2a44,100:d4a574&height=280&section=header&text=Dr.%20Hani%20Akrim&fontSize=66&fontColor=f3ebda&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Systems%20Architect%20%C2%B7%20HealthTech%20Innovator&descSize=20&descAlignY=60&descColor=e6c69a" width="100%" alt="Dr. Hani Akrim" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&pause=10000&color=D4A574&center=true&vCenter=true&width=620&height=55&lines=Frontier+AI+%C2%B7+Mission-critical+healthcare" alt="eyebrow" />
+
+<br/>
+
+<a href="https://haniakrim.dev/"><img src="https://img.shields.io/badge/%E2%98%85_OPEN_FOR_INNOVATIVE_PROJECTS-15101a?style=for-the-badge&labelColor=d4a574" alt="Open"/></a> <a href="https://haniakrim.dev/#contact"><img src="https://img.shields.io/badge/Let's_Talk_%E2%86%97-d4a574?style=for-the-badge&labelColor=15101a" alt="Contact"/></a>
+
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=32&pause=1200&color=D4A574&center=true&vCenter=true&width=780&height=55&lines=Democratizing+AI+through+intelligent%2C+scalable+systems;Bridging+frontier+AI+with+mission-critical+healthcare;Faster.+Simpler.+Smarter." alt="tagline" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/500K%2B-Users_Served-d4a574?style=for-the-badge&labelColor=15101a" /> <img src="https://img.shields.io/badge/%245M%2B-Health_Initiatives-d4a574?style=for-the-badge&labelColor=15101a" /> <img src="https://img.shields.io/badge/95%25-Stakeholder_Satisfaction-d4a574?style=for-the-badge&labelColor=15101a" /> <img src="https://img.shields.io/badge/20%2B_yrs-Experience-d4a574?style=for-the-badge&labelColor=15101a" />
+
+<br/>
+
+<img src="https://api.iconify.design/ph/map-pin-fill.svg?color=%23a59783&height=15" align="top" /> <img src="https://img.shields.io/badge/Riyadh,_Saudi_Arabia-251d2c?style=flat-square&labelColor=251d2c&color=a59783" /> &nbsp; <img src="https://api.iconify.design/ph/graduation-cap-fill.svg?color=%23a59783&height=15" align="top" /> <img src="https://img.shields.io/badge/New_York_University-251d2c?style=flat-square&labelColor=251d2c&color=a59783" />
+
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:15101a,100:d4a574&height=3" width="100%" />
+
+## <samp>I &nbsp;&mdash;&nbsp; The Mission</samp>
+
+<samp><i>&ldquo;Making AI accessible, intelligent, and impactful &mdash; one system at a time.&rdquo;</i></samp>
+
+I bridge the gap between **frontier AI** and **mission-critical healthcare**.
+
+Over **20+ years** I've led digital transformation for healthcare organizations across MENA — from hospital information systems running **400+ bed** facilities to national healthcare command centers — including a flagship mobile wellness super-app serving **500K+ users**. My work always prioritizes one thing: **measurable outcomes** for patients, providers, and organizations.
+
+A proven HealthTech leader with end-to-end product expertise — vendor evaluation, technical architecture, and cross-functional leadership of **15+ person teams**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251d2c,100:d4a574&height=2" width="100%" />
+
+## <samp>II &nbsp;&mdash;&nbsp; What Makes the Work Different</samp>
+
+| <img src="https://api.iconify.design/ph/shield-check-fill.svg?color=%23d4a574&height=26" /><br/>Compliance-Aware AI | <img src="https://api.iconify.design/ph/circuitry-fill.svg?color=%23d4a574&height=26" /><br/>Multi-Agent Systems | <img src="https://api.iconify.design/ph/magnifying-glass-fill.svg?color=%23d4a574&height=26" /><br/>Next-Gen RAG |
+| :---: | :---: | :---: |
+| Models built for **real patient care** and workflow efficiency — not demos. | Swarms of **specialist agents** that solve complex reasoning autonomously. | **Hybrid search** + dynamic semantic knowledge bases that minimize hallucination. |
+
+<samp><i>Depth comes from real use cases &mdash; not more jargon.</i></samp>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251d2c,100:d4a574&height=2" width="100%" />
+
+## <samp>III &nbsp;&mdash;&nbsp; The Framework &nbsp;&middot;&nbsp; <code>Faster · Simpler · Smarter™</code></samp>
+
+| <img src="https://api.iconify.design/ph/lightning-fill.svg?color=%23d4a574&height=26" /><br/>Faster | <img src="https://api.iconify.design/ph/puzzle-piece-fill.svg?color=%23d4a574&height=26" /><br/>Simpler | <img src="https://api.iconify.design/ph/brain-fill.svg?color=%23d4a574&height=26" /><br/>Smarter |
+| :---: | :---: | :---: |
+| Ship $5M+ initiatives concept-to-launch. **Cut dev cycle time 30%.** | Consolidate siloed systems into **one unified, intelligent interface.** | Grounded, explainable AI that **earns trust in high-stakes settings.** |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251d2c,100:d4a574&height=2" width="100%" />
+
+## <samp>IV &nbsp;&mdash;&nbsp; Current Focus</samp>
+
 <div align="center">
-  <a href="https://haniakrim.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-haniakrim.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="Portfolio Website" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Riyadh,%20Saudi%20Arabia-000000?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" alt="Location" />
-  <img src="https://img.shields.io/badge/Education-New%20York%20University-000000?style=for-the-badge&logo=fae&logoColor=00E5FF" alt="NYU" />
+<img src="https://api.iconify.design/ph/heartbeat-fill.svg?color=%23e6c69a&height=18" align="top" /> <img src="https://img.shields.io/badge/Healthcare_&_Wellness_AI-1c1622?style=for-the-badge&labelColor=1c1622&color=e6c69a" /> <img src="https://api.iconify.design/ph/circuitry-fill.svg?color=%23e6c69a&height=18" align="top" /> <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-1c1622?style=for-the-badge&labelColor=1c1622&color=e6c69a" /> <img src="https://api.iconify.design/ph/magnifying-glass-fill.svg?color=%23e6c69a&height=18" align="top" /> <img src="https://img.shields.io/badge/Next--Gen_RAG-1c1622?style=for-the-badge&labelColor=1c1622&color=e6c69a" /> <img src="https://api.iconify.design/ph/chat-circle-dots-fill.svg?color=%23e6c69a&height=18" align="top" /> <img src="https://img.shields.io/badge/Conversational_AI-1c1622?style=for-the-badge&labelColor=1c1622&color=e6c69a" /> <img src="https://api.iconify.design/ph/gear-fill.svg?color=%23e6c69a&height=18" align="top" /> <img src="https://img.shields.io/badge/Workflow_Automation-1c1622?style=for-the-badge&labelColor=1c1622&color=e6c69a" />
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251d2c,100:d4a574&height=2" width="100%" />
 
-<!-- Animated Tagline -->
+## <samp>V &nbsp;&mdash;&nbsp; Selected Works</samp>
+
+<img src="https://api.iconify.design/ph/shield-fill.svg?color=%23d4a574&height=18" align="top" /> &nbsp;**HAClaw CC** &nbsp;&mdash;&nbsp; A secure persistent personal agent server in **Rust**. One binary — sandboxed, secure, yours.<br/>
+<img src="https://api.iconify.design/ph/circuitry-fill.svg?color=%23d4a574&height=18" align="top" /> &nbsp;**Multi-Agent AI Platform** &nbsp;&mdash;&nbsp; Independent specialist agents collaborating to solve business queries autonomously.<br/>
+<img src="https://api.iconify.design/ph/heartbeat-fill.svg?color=%23d4a574&height=18" align="top" /> &nbsp;**Healthcare AI Apps** &nbsp;&mdash;&nbsp; HIPAA-compliant triage and medical document summarization on fine-tuned open models.<br/>
+<img src="https://api.iconify.design/ph/books-fill.svg?color=%23d4a574&height=18" align="top" /> &nbsp;**Enterprise Knowledge Bases** &nbsp;&mdash;&nbsp; Siloed corporate docs unified into one multimodal semantic search.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251d2c,100:d4a574&height=2" width="100%" />
+
+## <samp>VI &nbsp;&mdash;&nbsp; The Toolkit</samp>
+
 <div align="center">
-  <a href="https://haniakrim.dev">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Democratizing+AI+through+intelligent,+scalable+systems...;Faster.+;Simpler.+;Smarter.&font=Fira+Code&center=true&width=650&height=50&color=00E5FF&vCenter=true&pause=1000&size=20" alt="Animated Tagline" />
-  </a>
+<img src="https://img.shields.io/badge/Python-15101a?style=for-the-badge&logo=python&logoColor=d4a574" /> <img src="https://img.shields.io/badge/TypeScript-15101a?style=for-the-badge&logo=typescript&logoColor=d4a574" /> <img src="https://img.shields.io/badge/Node.js-15101a?style=for-the-badge&logo=nodedotjs&logoColor=d4a574" /> <img src="https://img.shields.io/badge/LangChain-15101a?style=for-the-badge&logo=langchain&logoColor=d4a574" /> <img src="https://img.shields.io/badge/FastAPI-15101a?style=for-the-badge&logo=fastapi&logoColor=d4a574" /> <img src="https://img.shields.io/badge/Docker-15101a?style=for-the-badge&logo=docker&logoColor=d4a574" /> <img src="https://img.shields.io/badge/Rust-15101a?style=for-the-badge&logo=rust&logoColor=d4a574" /> <img src="https://img.shields.io/badge/OpenAI-15101a?style=for-the-badge&logo=openai&logoColor=d4a574" /> <img src="https://img.shields.io/badge/Anthropic-15101a?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
 </div>
 
-<br />
-
----
-
-## 🧬 01. Professional Impact & Vision
-
-Over **20+ years**, I've led transformative digital technology integrations across MENA healthcare sectors, culminating in flagship super-apps servicing over **500K+ users**. 
-
-My core philosophy: Bridge the gap between cutting-edge frontier AI and mission-critical healthcare delivery.
-
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td width="5%" align="center">📱</td>
-    <td width="95%">Led flagship mobile wellness super-app integrating AI-powered features across fitness, nutrition, mental health, and chronic disease management.</td>
-  </tr>
-  <tr>
-    <td width="5%" align="center">🚀</td>
-    <td width="95%">Drove <b>$5M+</b> digital health initiatives from concept to launch, achieving <b>95%</b> stakeholder satisfaction.</td>
-  </tr>
-  <tr>
-    <td width="5%" align="center">🧩</td>
-    <td width="95%">Orchestrated multi-vendor integration strategies across 8 technology partners with on-time implementation.</td>
-  </tr>
-  <tr>
-    <td width="5%" align="center">👥</td>
-    <td width="95%">Built and led cross-functional product delivery teams of 15+ members across UX, engineering, and diverse business stakeholders.</td>
-  </tr>
-</table>
-
-<br />
-
-<!-- Aesthetic Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%" alt="Hacker Divider" style="border-radius: 15px;" />
-</div>
-
-<br />
-
----
-
-## ⚡ 02. Active Focus & Next-Gen Systems
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:251d2c,100:d4a574&height=2" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=01.+Healthcare+%26+Wellness+AI;02.+Multi-Agent+Orchestration;03.+Next-Gen+RAG+Architectures;04.+Conversational+AI+Systems;05.+Dynamic+Workflow+Automation&font=Inter&center=true&width=500&height=40&color=9333EA&vCenter=true&pause=2000&size=24" alt="Active Focus Typing" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a574,50:3a2a44,100:15101a&height=160&section=footer&text=Let's%20build%20something%20intelligent.&fontSize=30&fontColor=f3ebda&fontAlignY=70&reversal=true" width="100%" />
 
-<br />
+**Currently accepting new consulting clients.**
 
-<table align="center" width="100%" cellspacing="0" cellpadding="10">
-  <tr valign="top">
-    <td width="50%">
-      <b>🤖 Conversational AI & Agents</b><br/>
-      Contextual memory chatbots • Tool-augmented agents • Multi-turn management • Emergent problem solving
-    </td>
-    <td width="50%">
-      <b>🔍 RAG Architectures</b><br/>
-      Hybrid search implementations • Advanced relevance scoring • Grounded LLM responses • Dynamic ingestions
-    </td>
-  </tr>
-</table>
-
-<br />
-
----
-
-## ⚙️ 03. The Toolkit
-
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,react,nextjs,fastapi,tensorflow,pytorch,docker,git,linux,aws,gcp&perline=7&theme=dark" alt="Hani's Tech Stack" />
-  </a>
-  <br /><br />
-  <code>Python</code> <code>TypeScript</code> <code>LangChain</code> <code>LangGraph</code> <code>HuggingFace</code><br/>
-  <code>Make.com</code> <code>Zapier</code> <code>N8N</code> <code>Docker</code> <code>Next.js</code> <code>FastAPI</code>
-</div>
-
-<br />
-
----
-
-## 🌌 04. Selected Works
-
-<table width="100%" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="50%" valign="top">
-      <blockquote>
-        <b>🛡️ HAClaw CC</b><br />
-        A secure persistent personal agent server built in Rust. One binary — sandboxed, secure, yours.<br />
-      </blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <blockquote>
-        <b>🕸️ Multi-Agent API</b><br />
-        Architecting horizontal multi-agent systems where independent experts solve queries autonomously.<br />
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <blockquote>
-        <b>🩺 Health AI Triage</b><br />
-        Developing HIPAA-compliant AI applications for patient and medical document summarization.<br />
-      </blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <blockquote>
-        <b>📚 Unified Enterprise RAG</b><br />
-        Consolidating siloed corporate docs into a single unified search interface using multimodal embeddings.<br />
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
-<br />
-
----
-
-## 🔋 05. Developer Activity
-
-<div align="center">
-  <a href="https://github.com/haniakrim" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haniakrim&theme=react&hide_border=true&background=0D1117" alt="Hani's GitHub Streak" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Let's+build+the+future+together.&font=Inter&center=true&width=400&height=50&color=FFFFFF&vCenter=true&pause=5000&size=20" alt="Outro" />
+<a href="https://haniakrim.dev/"><img src="https://img.shields.io/badge/Portfolio-haniakrim.dev-d4a574?style=for-the-badge&labelColor=15101a&logo=googlechrome&logoColor=15101a" /></a> <a href="https://haniakrim.dev/#contact"><img src="https://img.shields.io/badge/LinkedIn-15101a?style=for-the-badge&logo=linkedin&logoColor=d4a574" /></a>
 </div>
